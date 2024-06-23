@@ -25,6 +25,5 @@ A problem is not:
 # TODO:
 
 * fix lag issues
-* fix bug where preditors can push prey without eating them
 * add graphs
 * make customizable
