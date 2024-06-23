@@ -478,7 +478,7 @@ def critreploop(crits):
         csy = [x[1] for x in Xcrits]
         indexes = [x for x in range(len(crits)) if not crits[x].prey and not crits[x] == crits[i]]
 
-        if len(Xcrits) == 0:
+        if len(Xcrits) == 0 or crits[i].prey:
             Predoverlaps = []
         else:
             Predoverlaps = circlesOverlaping(crits[i].pos[0], crits[i].pos[1], csx, csy , indexes)
