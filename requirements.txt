@@ -1,11 +1,4 @@
 numpy
 pygame
 numba
-functools
-sys
-pyai
-COLORS
-math
-time
-random 
 copy
