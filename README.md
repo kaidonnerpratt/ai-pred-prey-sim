@@ -14,13 +14,13 @@ If their are any problems plese contact me. A problem is:
 * bug
 * crash
 * errors
+* lag (PLEASE if you know how to optimise pyhton code PLEASE help me)
+
 
 A problem is not:
 
-* lag
-* bad code(sorry)
-* preds always lose(I am working on this though)
-
+* bad code (sorry)
+* preds always lose (I am working on this though)
 
 # TODO:
 
